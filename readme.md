@@ -2,4 +2,6 @@
 
 ---
 
-Mi primer ejercicio con ramas de git.
+Mi primer ejercicio con ramas de Git.
+
+Esto de aqui abajo es solo una frase de ejemplo.
